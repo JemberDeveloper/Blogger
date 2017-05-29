@@ -12,8 +12,8 @@ function getId(id) {
 
 var config = searchFormConfig,
 	input = getId('search'),
-	resultContainer = getId('modal-fixed-footer'),
-	resultLoader = getId('modal-content'),
+	resultContainer = getId('search-result-container'),
+	resultLoader = getId('search-result-loader'),
 	skeleton = '';
 
 // The Most Basic :: JSON caller function to display the list of posts in the container
