@@ -11,7 +11,7 @@ function getId(id) {
 }
 
 var config = searchFormConfig,
-	input = getId('feed-q-input'),
+	input = getId('search'),
 	resultContainer = getId('modal-fixed-footer'),
 	resultLoader = getId('modal-content'),
 	skeleton = '';
