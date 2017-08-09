@@ -1035,6 +1035,20 @@
 .c100.dark:hover > span {
   color: #c6ff00;
 }
+.c100.pink .bar,
+.c100.pink .fill {
+  border-color: #f48fb1 !important;
+}
+.c100.pink:hover > span {
+  color: #f48fb1;
+}
+.c100.pink.dark .bar,
+.c100.pink.dark .fill {
+  border-color: #e91e63 !important;
+}
+.c100.pink.dark:hover > span {
+  color: #e91e63;
+}
 .c100.green .bar,
 .c100.green .fill {
   border-color: #4db53c !important;
