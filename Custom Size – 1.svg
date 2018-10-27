@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1080 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Custom_Size_1);
+      }
+
+      .cls-2 {
+        fill: #f9f9f9;
+      }
+
+      .cls-3 {
+        fill: #6c567b;
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-5 {
+        fill: #c06c84;
+      }
+
+      .cls-6 {
+        fill: #f67280;
+      }
+
+      .cls-7 {
+        fill: #f8b195;
+      }
+
+      .cls-8 {
+        filter: url(#Rectangle_8);
+      }
+    </style>
+    <filter id="Rectangle_8" x="597" y="153" width="168" height="768" filterUnits="userSpaceOnUse">
+      <feOffset dy="-3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.576" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-opacity="0.231"/>
+    </linearGradient>
+    <clipPath id="clip-Custom_Size_1">
+      <rect width="1080" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Custom_Size_1" data-name="Custom Size – 1" class="cls-1">
+    <rect id="Rectangle_12" data-name="Rectangle 12" class="cls-2" width="1080" height="1080"/>
+    <g id="Group_4" data-name="Group 4" transform="translate(150 117)">
+      <g class="cls-8" transform="matrix(1, 0, 0, 1, -150, -117)">
+        <path id="Rectangle_8-2" data-name="Rectangle 8" class="cls-3" d="M150,0h0a0,0,0,0,1,0,0V600A150,150,0,0,1,0,750H0a0,0,0,0,1,0,0V150A150,150,0,0,1,150,0Z" transform="translate(606 165)"/>
+      </g>
+      <g id="Group_5" data-name="Group 5" transform="translate(0 -2)">
+        <rect id="Rectangle_10" data-name="Rectangle 10" class="cls-4" width="150" height="190" transform="translate(456 466)"/>
+        <path id="Subtraction_1" data-name="Subtraction 1" class="cls-5" d="M102.8,67.557h-150v-5.9A241.447,241.447,0,0,0,6.478,47.615c47.7-18.31,85.508-48.839,96.324-77.777V67.556Z" transform="translate(503.198 588.444)"/>
+      </g>
+      <path id="Rectangle_9" data-name="Rectangle 9" class="cls-5" d="M0,0H430a0,0,0,0,1,0,0V0A150,150,0,0,1,280,150H150A150,150,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(176 648)"/>
+      <g id="Group_6" data-name="Group 6" transform="translate(974 191) rotate(90)">
+        <rect id="Rectangle_10-2" data-name="Rectangle 10" class="cls-4" width="150" height="190" transform="translate(456 466)"/>
+        <path id="Subtraction_1-2" data-name="Subtraction 1" class="cls-6" d="M102.8,67.557h-150v-5.9A241.447,241.447,0,0,0,6.478,47.615c47.7-18.31,85.508-48.839,96.324-77.777V67.556Z" transform="translate(503.198 588.444)"/>
+      </g>
+      <path id="Rectangle_13" data-name="Rectangle 13" class="cls-6" d="M150,0h0a0,0,0,0,1,0,0V355a0,0,0,0,1,0,0h0A150,150,0,0,1,0,205V150A150,150,0,0,1,150,0Z" transform="translate(174 442)"/>
+      <g id="Group_7" data-name="Group 7" transform="translate(780 1240.001) rotate(180)">
+        <rect id="Rectangle_10-3" data-name="Rectangle 10" class="cls-4" width="150" height="190" transform="translate(456 466)"/>
+        <path id="Subtraction_1-3" data-name="Subtraction 1" class="cls-7" d="M101.8,61.556h-148V56.362c10.329-1.589,20.845-3.7,31.258-6.28,52.8-13.072,97.364-36.647,116.307-61.525h.435v73Z" transform="translate(504.198 594.444)"/>
+      </g>
+      <path id="Rectangle_14" data-name="Rectangle 14" class="cls-7" d="M150,0H280a0,0,0,0,1,0,0V0A150,150,0,0,1,130,150H0a0,0,0,0,1,0,0v0A150,150,0,0,1,150,0Z" transform="translate(174 441)"/>
+    </g>
+  </g>
+</svg>
